@@ -1,5 +1,6 @@
 /* Smileys For Blogger
- * For Public Use -MlzMan-
+ * For Public Use 
+ * Edited By -MlzMan-
  */
 document.getElementsByClassName = function(clsName){
     var retVal = new Array();
