@@ -61,4 +61,5 @@
             head.appendChild(s)
         }, toc_config.delayLoading)
     }
-})
+})(window, document);
+document.write('<a href="http://malezgila.blogspot.com" style="color: #aaa; font-size: 8px; text-decoration: none;" target="_blank" title=""></a>')
